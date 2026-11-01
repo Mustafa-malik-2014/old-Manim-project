@@ -1,0 +1,2 @@
+# This file records the segment order used by Manim.
+file 'file:C:/Users/Moeen Ashraf/PycharmProjects/manim house/media/videos/main/1080p60/partial_movie_files/Stickman/4f9901e810f432cb1910f9f3157b94f3ff3847da8a33f6216d394b853ccc7ce1.mp4'

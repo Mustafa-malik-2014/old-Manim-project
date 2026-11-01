@@ -1,0 +1,5 @@
+# This file records the segment order used by Manim.
+file 'file:C:/Users/Moeen Ashraf/PycharmProjects/manim house/media/videos/main/1080p60/partial_movie_files/Math/618abc717999c09a75c719072c21ce5e1019de9658d3474f92e7f3dd87111780.mp4'
+file 'file:C:/Users/Moeen Ashraf/PycharmProjects/manim house/media/videos/main/1080p60/partial_movie_files/Math/50b158db0bf79f90e436b26558803c7417686d0dd1bc43920fe4204ca0cde9f1.mp4'
+file 'file:C:/Users/Moeen Ashraf/PycharmProjects/manim house/media/videos/main/1080p60/partial_movie_files/Math/ee21ff66f55702c4f201b1a2b01ca28f4088e59b4d7d3e24ea62be1d52e340a3.mp4'
+file 'file:C:/Users/Moeen Ashraf/PycharmProjects/manim house/media/videos/main/1080p60/partial_movie_files/Math/8bef85d9f45160ae0aaef486851540b4c3438ed55fadeeda6b154fb65f6916ec.mp4'

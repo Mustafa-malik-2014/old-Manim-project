@@ -1,0 +1,8 @@
+# This file records the segment order used by Manim.
+file 'file:C:/Users/Moeen Ashraf/PycharmProjects/manim house/media/videos/main/1080p60/partial_movie_files/Test/53765eaebc32ed5309410416b1579602b7fd364b3a2450ef39a5e5f32a2c1478.mp4'
+file 'file:C:/Users/Moeen Ashraf/PycharmProjects/manim house/media/videos/main/1080p60/partial_movie_files/Test/5baf873e9d4acc263cd0a59f5c30f7398cfb850ca1202164be1e533e292a94fa.mp4'
+file 'file:C:/Users/Moeen Ashraf/PycharmProjects/manim house/media/videos/main/1080p60/partial_movie_files/Test/5475c68ba5131e960ad046437e2fb2e991ed8eb8188b7cc86196e1ec7472ff18.mp4'
+file 'file:C:/Users/Moeen Ashraf/PycharmProjects/manim house/media/videos/main/1080p60/partial_movie_files/Test/329645c4dc77dae196f0da62d3c19d27d1a6c5b8d7efeeecef5f30d391214468.mp4'
+file 'file:C:/Users/Moeen Ashraf/PycharmProjects/manim house/media/videos/main/1080p60/partial_movie_files/Test/e5a00c90d67a7f3cf5b58b29eaa02c91b2b348fa4baa71992f3fbedf78094a07.mp4'
+file 'file:C:/Users/Moeen Ashraf/PycharmProjects/manim house/media/videos/main/1080p60/partial_movie_files/Test/643280b40a749d29cdc8bbcff90e914350b3e5c343bb3f7bdbd3ea5ad32cef7e.mp4'
+file 'file:C:/Users/Moeen Ashraf/PycharmProjects/manim house/media/videos/main/1080p60/partial_movie_files/Test/7afbdad8e994c69b8e2a765c17941104f2a6d7878dfabfc872ef491666b74d9f.mp4'

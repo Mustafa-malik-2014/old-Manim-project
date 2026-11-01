@@ -1,0 +1,7 @@
+# This file records the segment order used by Manim.
+file 'file:C:/Users/Moeen Ashraf/PycharmProjects/manim house/media/videos/banana/1080p60/partial_movie_files/Banana/6c37aa950def37b5aafaf511f56ca2d385a6c5645d9d6043d3ed41bc474329d5.mp4'
+file 'file:C:/Users/Moeen Ashraf/PycharmProjects/manim house/media/videos/banana/1080p60/partial_movie_files/Banana/f859e8ca5bb683ad0c9d024e5e3f1a1223ec9cf56e8d2736307886b7e503fef5.mp4'
+file 'file:C:/Users/Moeen Ashraf/PycharmProjects/manim house/media/videos/banana/1080p60/partial_movie_files/Banana/c5c9f214f4c00e9c86171cb5ccb981c25ffaf3bd4a81488cc9e71bcb76f5c308.mp4'
+file 'file:C:/Users/Moeen Ashraf/PycharmProjects/manim house/media/videos/banana/1080p60/partial_movie_files/Banana/496773f66389bb28005d7f4dd27119008df8692d0e4a4f95a25f4b16f47ae9ea.mp4'
+file 'file:C:/Users/Moeen Ashraf/PycharmProjects/manim house/media/videos/banana/1080p60/partial_movie_files/Banana/8082a4adcf1e8a4f4f944325f28070849c18ccb584e106f77e0f1895f3451203.mp4'
+file 'file:C:/Users/Moeen Ashraf/PycharmProjects/manim house/media/videos/banana/1080p60/partial_movie_files/Banana/626298c6286819cbcbb14e0180bc913ee19bd96f23fb24333b2dc37598e315bb.mp4'
